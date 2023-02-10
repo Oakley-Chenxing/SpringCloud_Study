@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SC-07-Feign" />
+        <module name="SC-07-Provider" />
+        <module name="SC-04-Consumer" />
+        <module name="SpringCloud_02_EurekaServer" />
+        <module name="SC-07-Eureka-Server" />
+        <module name="SpringCloud_03_Eureka02" />
+        <module name="SC-04-EurekaServer" />
+        <module name="SC-08-Eureka-Server" />
+        <module name="SC-05-Provider" />
+        <module name="SC-06-Consumer" />
+        <module name="SC-08-Consumer" />
+        <module name="SC-03-Consumer" />
+        <module name="SC-06-Hystrix" />
+        <module name="SC-08-Provider" />
+        <module name="SC-05-EurekaServer" />
+        <module name="SpringCloud01_Demo_RestTemplate" />
+        <module name="SC-03-EurekaServer-9100" />
+        <module name="SC-03-EurekaServer-9200" />
+        <module name="SC-03-Provider" />
+        <module name="SpringCloud_02_Eureka01" />
+        <module name="SC-06-Eureka-Server" />
+        <module name="SC-06-Provider" />
+        <module name="SpringCloud_02_EurekaProvider" />
+        <module name="SC-05-RestTemplate" />
+        <module name="SpringCloud_02_EurekaConsumer" />
+        <module name="SC-04-Ribbon" />
+        <module name="SC-05-Consumer" />
+        <module name="SC-06-Hystrix-Dashboard" />
+        <module name="SC-08-ZuulGateway" />
+        <module name="SpringCloud_01_Provider" />
+        <module name="SpringCloud_01_Consumer" />
+        <module name="SC-08-Zuul" />
+        <module name="SC-04-Provider-8082" />
+        <module name="SC-04-Provider-8081" />
+        <module name="SC-07-Consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SC-03-Consumer" target="1.8" />
+      <module name="SC-03-EurekaServer-9100" target="1.8" />
+      <module name="SC-03-EurekaServer-9200" target="1.8" />
+      <module name="SC-03-Provider" target="1.8" />
+      <module name="SC-04-Consumer" target="1.8" />
+      <module name="SC-04-EurekaServer" target="1.8" />
+      <module name="SC-04-Provider-8081" target="1.8" />
+      <module name="SC-04-Provider-8082" target="1.8" />
+      <module name="SC-04-Ribbon" target="1.5" />
+      <module name="SC-05-Consumer" target="1.8" />
+      <module name="SC-05-EurekaServer" target="1.8" />
+      <module name="SC-05-Provider" target="1.8" />
+      <module name="SC-05-RestTemplate" target="1.5" />
+      <module name="SC-06-Consumer" target="1.8" />
+      <module name="SC-06-Eureka-Server" target="1.8" />
+      <module name="SC-06-Hystrix" target="1.5" />
+      <module name="SC-06-Hystrix-Dashboard" target="1.8" />
+      <module name="SC-06-Provider" target="1.8" />
+      <module name="SC-07-Consumer" target="1.8" />
+      <module name="SC-07-Eureka-Server" target="1.8" />
+      <module name="SC-07-Feign" target="1.5" />
+      <module name="SC-07-Provider" target="1.8" />
+      <module name="SC-08-Consumer" target="1.8" />
+      <module name="SC-08-Eureka-Server" target="1.8" />
+      <module name="SC-08-Provider" target="1.8" />
+      <module name="SC-08-Zuul" target="1.5" />
+      <module name="SC-08-ZuulGateway" target="1.8" />
+      <module name="SpringCloud01_Demo_RestTemplate" target="1.5" />
+      <module name="SpringCloud_01_Consumer" target="1.8" />
+      <module name="SpringCloud_01_Provider" target="1.8" />
+      <module name="SpringCloud_02_Eureka01" target="1.5" />
+      <module name="SpringCloud_02_EurekaConsumer" target="1.8" />
+      <module name="SpringCloud_02_EurekaProvider" target="1.8" />
+      <module name="SpringCloud_02_EurekaServer" target="1.8" />
+      <module name="SpringCloud_03_Eureka02" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SC-03-Consumer" options="-parameters" />
+      <module name="SC-03-EurekaServer-9100" options="-parameters" />
+      <module name="SC-03-EurekaServer-9200" options="-parameters" />
+      <module name="SC-03-Provider" options="-parameters" />
+      <module name="SC-04-Consumer" options="-parameters" />
+      <module name="SC-04-EurekaServer" options="-parameters" />
+      <module name="SC-04-Provider-8081" options="-parameters" />
+      <module name="SC-04-Provider-8082" options="-parameters" />
+      <module name="SC-05-Consumer" options="-parameters" />
+      <module name="SC-05-EurekaServer" options="-parameters" />
+      <module name="SC-05-Provider" options="-parameters" />
+      <module name="SC-06-Consumer" options="-parameters" />
+      <module name="SC-06-Eureka-Server" options="-parameters" />
+      <module name="SC-06-Hystrix-Dashboard" options="-parameters" />
+      <module name="SC-06-Provider" options="-parameters" />
+      <module name="SC-07-Consumer" options="-parameters" />
+      <module name="SC-07-Eureka-Server" options="-parameters" />
+      <module name="SC-07-Provider" options="-parameters" />
+      <module name="SC-08-Consumer" options="-parameters" />
+      <module name="SC-08-Eureka-Server" options="-parameters" />
+      <module name="SC-08-Provider" options="-parameters" />
+      <module name="SC-08-ZuulGateway" options="-parameters" />
+      <module name="SpringCloud_01_Consumer" options="-parameters" />
+      <module name="SpringCloud_01_Provider" options="-parameters" />
+      <module name="SpringCloud_02_EurekaConsumer" options="-parameters" />
+      <module name="SpringCloud_02_EurekaProvider" options="-parameters" />
+      <module name="SpringCloud_02_EurekaServer" options="-parameters" />
+    </option>
+  </component>
+</project>
